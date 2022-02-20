@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'DaysOne';
+    src: url('../fonts/DaysOne-Regular.woff') format('woff'),
+        url('../fonts/DaysOne-Regular.ttf') format('truetype'),
+        url('../fonts/DaysOne-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
